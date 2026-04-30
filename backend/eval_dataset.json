@@ -1,0 +1,452 @@
+[
+  {
+    "id": "q1",
+    "question": "When did Chandrayaan-3 land on the Moon and what country achieved this?",
+    "ground_truth": "Chandrayaan-3 landed on the Moon on 23 August 2023, making India the fourth country to achieve a soft lunar landing and the first to land near the lunar south pole.",
+    "expected_doc_ids": ["d1"],
+    "expected_keywords": ["23 August 2023", "India", "south pole", "Vikram", "Pragyan"],
+    "category": "Space Missions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2",
+    "question": "How much asteroid sample did OSIRIS-REx return from Bennu?",
+    "ground_truth": "OSIRIS-REx returned over 121 grams of material from asteroid Bennu on 24 September 2023, making it the largest asteroid sample ever returned to Earth.",
+    "expected_doc_ids": ["d2", "d30"],
+    "expected_keywords": ["121 grams", "Bennu", "24 September 2023", "largest", "asteroid sample"],
+    "category": "Space Missions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q3",
+    "question": "What happened during SpaceX Starship's fourth test flight?",
+    "ground_truth": "The fourth Starship test in June 2024 successfully splashed down both the Super Heavy booster and the Starship Ship in the ocean for the first time.",
+    "expected_doc_ids": ["d3"],
+    "expected_keywords": ["June 2024", "fourth", "splashed down", "booster", "Ship"],
+    "category": "Space Missions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q4",
+    "question": "What went wrong with the Intuitive Machines Odysseus lunar lander?",
+    "ground_truth": "The Odysseus lander tipped onto its side during touchdown on 22 February 2024, likely catching a foot on the surface, which reduced power from its solar panels. Despite this, it transmitted science data for about six days.",
+    "expected_doc_ids": ["d4"],
+    "expected_keywords": ["tipped", "side", "solar panels", "22 February 2024", "six days"],
+    "category": "Space Missions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q5",
+    "question": "What is historic about Chang'e 6 and how much sample did it return?",
+    "ground_truth": "Chang'e 6 was the first mission to return samples from the far side of the Moon, collecting about 1.9 kilograms of lunar material from the Apollo crater in the South Pole-Aitken Basin in June 2024.",
+    "expected_doc_ids": ["d5"],
+    "expected_keywords": ["far side", "1.9 kilograms", "South Pole-Aitken Basin", "June 2024", "first"],
+    "category": "Space Missions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q6",
+    "question": "How accurate was the SLIM spacecraft's Moon landing?",
+    "ground_truth": "SLIM landed within 55 meters of its target, demonstrating far more precise pinpoint landing technology than the typical kilometer-scale accuracy of previous landers, though it landed at an unexpected angle with solar panels facing the wrong direction.",
+    "expected_doc_ids": ["d6"],
+    "expected_keywords": ["55 meters", "pinpoint", "solar panels", "wrong direction", "JAXA"],
+    "category": "Space Missions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q7",
+    "question": "What is the goal of the Artemis program and what rocket does it use?",
+    "ground_truth": "The Artemis program aims to return humans to the Moon for the first time since Apollo 17 in 1972. It uses the Space Launch System (SLS) rocket with Orion capsule, and SpaceX's Starship as the Human Landing System.",
+    "expected_doc_ids": ["d7"],
+    "expected_keywords": ["Moon", "Apollo 17", "Space Launch System", "Starship", "Human Landing System"],
+    "category": "Space Missions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q8",
+    "question": "When was Europa Clipper launched and what is its mission?",
+    "ground_truth": "Europa Clipper launched on 14 October 2024 aboard a SpaceX Falcon Heavy. Its mission is to study Jupiter's moon Europa, which may harbor a liquid water ocean beneath its icy surface, conducting 49 close flybys to assess its potential for extraterrestrial life.",
+    "expected_doc_ids": ["d8"],
+    "expected_keywords": ["14 October 2024", "Europa", "liquid water ocean", "49 flybys", "Falcon Heavy"],
+    "category": "Space Missions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q9",
+    "question": "What is special about asteroid 16 Psyche and when will NASA's spacecraft arrive?",
+    "ground_truth": "Asteroid 16 Psyche is thought to be composed largely of iron and nickel — possibly the exposed metallic core of an early planet. NASA's Psyche spacecraft launched in October 2023 and is expected to arrive at the asteroid in 2029.",
+    "expected_doc_ids": ["d9", "d49"],
+    "expected_keywords": ["iron", "nickel", "metallic core", "2029", "October 2023"],
+    "category": "Space Missions",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q10",
+    "question": "What unique milestone will JUICE achieve at Ganymede in 2034?",
+    "ground_truth": "JUICE will enter orbit around Ganymede in 2034, becoming the first spacecraft to orbit a moon other than Earth's Moon.",
+    "expected_doc_ids": ["d10"],
+    "expected_keywords": ["Ganymede", "2034", "first spacecraft", "orbit", "moon"],
+    "category": "Space Missions",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q11",
+    "question": "What did JWST detect in the atmosphere of K2-18b?",
+    "ground_truth": "JWST detected carbon dioxide and methane simultaneously in the atmosphere of K2-18b in September 2023. There was also a tentative signature of dimethyl sulfide (DMS), a molecule produced only by living organisms on Earth, suggesting it could be a Hycean world.",
+    "expected_doc_ids": ["d11", "d17"],
+    "expected_keywords": ["carbon dioxide", "methane", "K2-18b", "dimethyl sulfide", "Hycean"],
+    "category": "Telescopes & Observatories",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q12",
+    "question": "What is Euclid's mission and when did it launch?",
+    "ground_truth": "Euclid is an ESA space telescope designed to investigate dark energy and dark matter by surveying billions of galaxies up to 10 billion light-years away. It launched on 1 July 2023 on a SpaceX Falcon 9 and released its first images in November 2023.",
+    "expected_doc_ids": ["d12"],
+    "expected_keywords": ["dark energy", "dark matter", "1 July 2023", "Falcon 9", "November 2023"],
+    "category": "Telescopes & Observatories",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q13",
+    "question": "What did the Event Horizon Telescope reveal about Sagittarius A* in 2024?",
+    "ground_truth": "In October 2024, the EHT published the first image of polarized light around Sagittarius A*, revealing the magnetic field structure around the black hole, which closely resembled that of M87*, suggesting these features are universal among supermassive black holes.",
+    "expected_doc_ids": ["d13", "d16"],
+    "expected_keywords": ["polarized light", "Sagittarius A*", "magnetic fields", "M87*", "October 2024"],
+    "category": "Telescopes & Observatories",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q14",
+    "question": "How is the Nancy Grace Roman Space Telescope different from Hubble?",
+    "ground_truth": "The Nancy Grace Roman Space Telescope has the same resolution as the Hubble Space Telescope but with a field of view 100 times larger, enabling wide-field infrared surveys of the sky.",
+    "expected_doc_ids": ["d14"],
+    "expected_keywords": ["Hubble", "100 times larger", "field of view", "infrared", "2027"],
+    "category": "Telescopes & Observatories",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q15",
+    "question": "What camera does the Vera Rubin Observatory use and what will it survey?",
+    "ground_truth": "The Vera C. Rubin Observatory uses the world's largest digital camera with 3.2 gigapixels. It will conduct the Legacy Survey of Space and Time (LSST) over 10 years, photographing the entire visible sky every few nights starting around 2025.",
+    "expected_doc_ids": ["d15"],
+    "expected_keywords": ["3.2 gigapixels", "LSST", "Legacy Survey", "2025", "every few nights"],
+    "category": "Telescopes & Observatories",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q16",
+    "question": "How far away is Sagittarius A* and what is its mass?",
+    "ground_truth": "Sagittarius A* is approximately 26,000 light-years from Earth and has a mass of about 4 million solar masses.",
+    "expected_doc_ids": ["d16"],
+    "expected_keywords": ["26,000 light-years", "4 million solar masses", "Milky Way", "center"],
+    "category": "Astronomy & Cosmology",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q17",
+    "question": "Why is K2-18b considered a potential candidate for life?",
+    "ground_truth": "K2-18b is considered a candidate for life because JWST detected carbon dioxide, methane, and a tentative signature of dimethyl sulfide (DMS) — a molecule only produced by living organisms on Earth — in its atmosphere. Scientists hypothesize it may be a Hycean world with a liquid water ocean.",
+    "expected_doc_ids": ["d17"],
+    "expected_keywords": ["dimethyl sulfide", "DMS", "living organisms", "Hycean", "liquid water ocean"],
+    "category": "Astronomy & Cosmology",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q18",
+    "question": "What did NANOGrav discover in June 2023?",
+    "ground_truth": "NANOGrav published evidence for a gravitational wave background — a faint persistent hum of gravitational waves permeating the universe — generated by supermassive black hole binaries spiraling together. Three other pulsar timing arrays announced similar findings simultaneously.",
+    "expected_doc_ids": ["d18", "d48"],
+    "expected_keywords": ["gravitational wave background", "pulsar timing", "June 2023", "supermassive black hole binaries", "hum"],
+    "category": "Astronomy & Cosmology",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q19",
+    "question": "What percentage of the universe does dark energy account for?",
+    "ground_truth": "Dark energy accounts for approximately 68% of the total energy content of the observable universe.",
+    "expected_doc_ids": ["d19"],
+    "expected_keywords": ["68%", "dark energy", "accelerating expansion", "cosmological constant"],
+    "category": "Astronomy & Cosmology",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q20",
+    "question": "What percentage of the universe is dark matter and why can't we detect it directly?",
+    "ground_truth": "Dark matter accounts for approximately 27% of the universe's total mass-energy content. It cannot be detected directly because it does not interact with the electromagnetic force, making it invisible to telescopes. It is inferred through gravitational effects on visible matter.",
+    "expected_doc_ids": ["d20"],
+    "expected_keywords": ["27%", "electromagnetic force", "gravitational effects", "WIMPs", "axions"],
+    "category": "Astronomy & Cosmology",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q21",
+    "question": "How many exoplanets have been confirmed as of 2024?",
+    "ground_truth": "As of 2024, over 5,700 exoplanets have been confirmed, discovered through missions like Kepler, K2, and TESS.",
+    "expected_doc_ids": ["d22"],
+    "expected_keywords": ["5,700", "exoplanets", "Kepler", "TESS", "2024"],
+    "category": "Astronomy & Cosmology",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q22",
+    "question": "How far away is Gliese 12b and why is it scientifically interesting?",
+    "ground_truth": "Gliese 12b is about 40 light-years from Earth. It is interesting because it is slightly smaller than Earth, sits in the habitable zone of its star, and is an ideal candidate for atmospheric study with JWST to determine if it retained an atmosphere.",
+    "expected_doc_ids": ["d23"],
+    "expected_keywords": ["40 light-years", "habitable zone", "atmosphere", "JWST", "red dwarf"],
+    "category": "Astronomy & Cosmology",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q23",
+    "question": "When were gravitational waves first directly detected and by which instrument?",
+    "ground_truth": "Gravitational waves were directly detected for the first time in 2015 by LIGO (Laser Interferometer Gravitational-Wave Observatory).",
+    "expected_doc_ids": ["d24"],
+    "expected_keywords": ["2015", "LIGO", "directly detected", "gravitational waves"],
+    "category": "Astronomy & Cosmology",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q24",
+    "question": "How many samples has Perseverance collected and where are they stored?",
+    "ground_truth": "By 2024, Perseverance had collected 23 sealed sample tubes from the Martian surface in Jezero Crater, caching them for eventual return to Earth as part of the Mars Sample Return campaign.",
+    "expected_doc_ids": ["d26"],
+    "expected_keywords": ["23", "sample tubes", "Jezero Crater", "Mars Sample Return", "sealed"],
+    "category": "Solar System & Mars",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q25",
+    "question": "Why was Mars Sample Return restructured and when might samples arrive?",
+    "ground_truth": "Mars Sample Return was restructured in 2024 due to significant NASA budget challenges. The revised timeline pushed the return of Martian samples toward 2035 or beyond, delayed from the original late-2020s plan.",
+    "expected_doc_ids": ["d27"],
+    "expected_keywords": ["budget", "2035", "restructured", "2024", "delayed"],
+    "category": "Solar System & Mars",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q26",
+    "question": "What was wrong with Voyager 1 in 2023 and how was it fixed?",
+    "ground_truth": "In late 2023, Voyager 1 began transmitting garbled data due to a failing memory chip in its flight data system computer. In April 2024, engineers moved the affected code to different memory locations, fully restoring normal operations by May 2024.",
+    "expected_doc_ids": ["d28"],
+    "expected_keywords": ["memory chip", "garbled", "April 2024", "code", "memory locations"],
+    "category": "Solar System & Mars",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q27",
+    "question": "How strong was the May 2024 solar storm and what auroras did it produce?",
+    "ground_truth": "The May 2024 solar storm reached G5 (extreme) level — the strongest in 20 years — producing auroras visible as far south as Florida, Texas, Mexico, southern Europe, and Australia.",
+    "expected_doc_ids": ["d29"],
+    "expected_keywords": ["G5", "extreme", "20 years", "Florida", "auroras", "Australia"],
+    "category": "Solar System & Mars",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q28",
+    "question": "What is the probability of asteroid Bennu hitting Earth?",
+    "ground_truth": "Bennu has an estimated probability of about 1 in 2,700 of impacting Earth on 24 September 2182.",
+    "expected_doc_ids": ["d30"],
+    "expected_keywords": ["1 in 2,700", "2182", "24 September", "impact", "probability"],
+    "category": "Solar System & Mars",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q29",
+    "question": "Who won the 2023 Nobel Prize in Physics and for what?",
+    "ground_truth": "The 2023 Nobel Prize in Physics was awarded to Pierre Agostini, Ferenc Krausz, and Anne L'Huillier for generating attosecond pulses of light that allow scientists to observe electron motion in real time.",
+    "expected_doc_ids": ["d31"],
+    "expected_keywords": ["Agostini", "Krausz", "L'Huillier", "attosecond", "electrons"],
+    "category": "Physics & Nobel Prizes",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q30",
+    "question": "What are quantum dots and who won the Nobel Prize for discovering them?",
+    "ground_truth": "Quantum dots are nanoscale semiconductor crystals whose optical properties depend on their size. The 2023 Nobel Prize in Chemistry was awarded to Moungi Bawendi, Louis Brus, and Alexei Ekimov for their discovery and synthesis.",
+    "expected_doc_ids": ["d32"],
+    "expected_keywords": ["quantum dots", "Bawendi", "Brus", "Ekimov", "nanoscale", "2023"],
+    "category": "Physics & Nobel Prizes",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q31",
+    "question": "Who won the 2024 Nobel Prize in Chemistry and what did they develop?",
+    "ground_truth": "The 2024 Nobel Prize in Chemistry was awarded to David Baker for computational protein design, and Demis Hassabis and John Jumper for developing AlphaFold, an AI system that predicts protein 3D structures.",
+    "expected_doc_ids": ["d33", "d37"],
+    "expected_keywords": ["Baker", "Hassabis", "Jumper", "AlphaFold", "protein structure", "2024"],
+    "category": "Physics & Nobel Prizes",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q32",
+    "question": "Who won the 2024 Nobel Prize in Physics and why is it significant?",
+    "ground_truth": "John Hopfield and Geoffrey Hinton won the 2024 Nobel Prize in Physics for foundational work enabling machine learning with artificial neural networks. Hinton, the 'Godfather of AI', had notably resigned from Google in 2023 to speak about AI risks.",
+    "expected_doc_ids": ["d34"],
+    "expected_keywords": ["Hopfield", "Hinton", "neural networks", "machine learning", "Godfather of AI"],
+    "category": "Physics & Nobel Prizes",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q33",
+    "question": "What energy level does the LHC operate at in Run 3?",
+    "ground_truth": "Run 3 of the LHC began in 2022 at record collision energies of 13.6 TeV.",
+    "expected_doc_ids": ["d35"],
+    "expected_keywords": ["13.6 TeV", "Run 3", "2022", "record", "collision"],
+    "category": "Physics & Nobel Prizes",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q34",
+    "question": "What is AlphaFold 3 and what does it predict beyond proteins?",
+    "ground_truth": "AlphaFold 3, released in May 2024 by Google DeepMind, extended protein structure prediction to nucleic acids (DNA, RNA) and small molecules, enabling modeling of full biological complexes.",
+    "expected_doc_ids": ["d37", "d33"],
+    "expected_keywords": ["AlphaFold 3", "DNA", "RNA", "small molecules", "May 2024", "Google DeepMind"],
+    "category": "Physics & Nobel Prizes",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q35",
+    "question": "What milestone did Google's Willow quantum chip achieve in December 2024?",
+    "ground_truth": "Google's Willow quantum chip demonstrated a quantum error correction milestone in December 2024, performing a computation in 5 minutes that would take classical supercomputers an astronomically long time.",
+    "expected_doc_ids": ["d38"],
+    "expected_keywords": ["Willow", "December 2024", "5 minutes", "error correction", "supercomputers"],
+    "category": "Physics & Nobel Prizes",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q36",
+    "question": "What was the first CRISPR medicine approved and what disease does it treat?",
+    "ground_truth": "Casgevy, developed by Vertex Pharmaceuticals and CRISPR Therapeutics, was the first FDA-approved CRISPR-based medicine, approved in December 2023 for the treatment of sickle cell disease.",
+    "expected_doc_ids": ["d39"],
+    "expected_keywords": ["Casgevy", "sickle cell disease", "December 2023", "FDA", "CRISPR"],
+    "category": "Physics & Nobel Prizes",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q37",
+    "question": "What milestone did the National Ignition Facility achieve with nuclear fusion?",
+    "ground_truth": "In December 2022, the National Ignition Facility achieved fusion ignition for the first time, producing more energy from fusion than the laser energy delivered to the target. NIF repeated and improved on this result multiple times in 2023.",
+    "expected_doc_ids": ["d40"],
+    "expected_keywords": ["ignition", "December 2022", "more energy", "laser", "NIF", "2023"],
+    "category": "Physics & Nobel Prizes",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q38",
+    "question": "How close to the Sun did Parker Solar Probe fly in December 2024?",
+    "ground_truth": "In December 2024, Parker Solar Probe flew within about 6.1 million kilometers of the Sun's surface — inside the solar corona — at speeds exceeding 690,000 km/h, making it the fastest human-made object ever.",
+    "expected_doc_ids": ["d41"],
+    "expected_keywords": ["6.1 million kilometers", "690,000 km/h", "December 2024", "corona", "fastest"],
+    "category": "Solar Science",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q39",
+    "question": "What has Solar Orbiter photographed and what are campfires?",
+    "ground_truth": "Solar Orbiter returned the highest-resolution images of the Sun's surface ever taken from close range, including 'campfires' — small solar flares near the Sun's surface — and detailed views of sunspots and coronal loops.",
+    "expected_doc_ids": ["d42"],
+    "expected_keywords": ["campfires", "solar flares", "sunspots", "coronal loops", "highest-resolution"],
+    "category": "Solar Science",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q40",
+    "question": "Why were astronauts Butch Wilmore and Suni Williams stranded on the ISS?",
+    "ground_truth": "Wilmore and Suni Williams were stranded on the ISS because Boeing's Starliner developed five helium leaks and multiple thruster failures. NASA determined it was too unsafe for crew return, so they remained on the ISS for over 9 months before returning via SpaceX Crew Dragon in February 2025.",
+    "expected_doc_ids": ["d44", "d43"],
+    "expected_keywords": ["helium leaks", "thruster failures", "Starliner", "9 months", "February 2025"],
+    "category": "Crewed Spaceflight",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q41",
+    "question": "When is the ISS planned to be deorbited and what will replace it?",
+    "ground_truth": "NASA plans a controlled ISS deorbit in 2030 using a purpose-built SpaceX deorbit vehicle. Commercial space stations from Axiom Space, Blue Origin, and Starlab are being developed to replace it.",
+    "expected_doc_ids": ["d45"],
+    "expected_keywords": ["2030", "deorbit", "SpaceX", "Axiom Space", "Blue Origin", "Starlab"],
+    "category": "Crewed Spaceflight",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q42",
+    "question": "What are the first Lunar Gateway modules and when will they launch?",
+    "ground_truth": "The first Lunar Gateway modules are the Power and Propulsion Element (PPE) and Habitation and Logistics Outpost (HALO), planned for launch on a SpaceX Falcon Heavy in 2026.",
+    "expected_doc_ids": ["d46"],
+    "expected_keywords": ["PPE", "HALO", "Falcon Heavy", "2026", "Power and Propulsion"],
+    "category": "Crewed Spaceflight",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q43",
+    "question": "Why is Helium-3 from the Moon considered valuable?",
+    "ground_truth": "Helium-3 is valuable as a potential fuel for nuclear fusion reactors because the He-3 and deuterium fusion reaction produces minimal radioactive waste. It is rare on Earth but abundant on the Moon due to billions of years of solar wind deposition.",
+    "expected_doc_ids": ["d47"],
+    "expected_keywords": ["fusion", "radioactive waste", "deuterium", "solar wind", "Moon", "rare on Earth"],
+    "category": "Emerging Science",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q44",
+    "question": "How many pulsar timing array collaborations detected the gravitational wave background?",
+    "ground_truth": "Four major pulsar timing array collaborations simultaneously published evidence for the gravitational wave background in June 2023: NANOGrav, EPTA (European), PPTA (Parkes), and CPTA (Chinese).",
+    "expected_doc_ids": ["d48", "d18"],
+    "expected_keywords": ["four", "NANOGrav", "EPTA", "PPTA", "CPTA", "June 2023"],
+    "category": "Emerging Science",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q45",
+    "question": "What is 16 Psyche thought to be and why is it scientifically significant?",
+    "ground_truth": "16 Psyche is thought to be the exposed metallic iron-nickel core of an early protoplanet stripped of its rocky mantle through ancient collisions. It is scientifically significant because it could provide a window into planetary interiors that we cannot directly access on Earth.",
+    "expected_doc_ids": ["d49", "d9"],
+    "expected_keywords": ["metallic core", "iron", "nickel", "protoplanet", "planetary interiors"],
+    "category": "Emerging Science",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q46",
+    "question": "How many flights did the Ingenuity helicopter complete and why did its mission end?",
+    "ground_truth": "Ingenuity completed 72 flights over nearly three years before its mission ended on 18 January 2024 when a rotor blade was damaged during its 72nd landing, rendering it unable to fly again. It flew over 17 kilometers in total.",
+    "expected_doc_ids": ["d50"],
+    "expected_keywords": ["72 flights", "18 January 2024", "rotor blade", "17 kilometers", "damaged"],
+    "category": "Emerging Science",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q47",
+    "question": "What molecules did JWST detect in K2-18b that suggest possible life?",
+    "ground_truth": "JWST detected carbon dioxide, methane, and a tentative signature of dimethyl sulfide (DMS) in K2-18b's atmosphere. DMS is a molecule produced exclusively by living organisms on Earth, making this detection particularly significant for astrobiology.",
+    "expected_doc_ids": ["d17", "d11"],
+    "expected_keywords": ["dimethyl sulfide", "DMS", "carbon dioxide", "methane", "living organisms"],
+    "category": "Astronomy & Cosmology",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q48",
+    "question": "What frequency range does the gravitational wave background occupy and why can't LIGO detect it?",
+    "ground_truth": "The gravitational wave background occupies the nanohertz frequency range, far below the frequencies detectable by LIGO. LIGO detects kilohertz-range waves from compact binary mergers, while pulsar timing arrays are sensitive to the nanohertz waves from supermassive black hole binaries.",
+    "expected_doc_ids": ["d48", "d24"],
+    "expected_keywords": ["nanohertz", "LIGO", "frequency", "pulsar timing", "supermassive black hole"],
+    "category": "Emerging Science",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q49",
+    "question": "What is a Hycean world and which exoplanet is the best candidate?",
+    "ground_truth": "A Hycean world is a type of exoplanet with a hydrogen-rich atmosphere and a liquid water ocean beneath its surface. K2-18b, located 120 light-years away, is the best current candidate after JWST detected carbon dioxide, methane, and possible DMS in its atmosphere.",
+    "expected_doc_ids": ["d17", "d11"],
+    "expected_keywords": ["Hycean", "hydrogen-rich", "liquid water ocean", "K2-18b", "120 light-years"],
+    "category": "Astronomy & Cosmology",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q50",
+    "question": "Which country became the fifth to land on the Moon and what unique technology did it demonstrate?",
+    "ground_truth": "Japan became the fifth country to land on the Moon with the SLIM spacecraft in January 2024. It demonstrated pinpoint landing technology, touching down within 55 meters of its target, far more precise than the kilometer-scale accuracy of previous landers.",
+    "expected_doc_ids": ["d6"],
+    "expected_keywords": ["Japan", "fifth", "SLIM", "January 2024", "55 meters", "pinpoint"],
+    "category": "Space Missions",
+    "difficulty": "medium"
+  }
+]
