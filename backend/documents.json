@@ -1,0 +1,352 @@
+[
+  {
+    "id": "d1",
+    "title": "Chandrayaan-3",
+    "category": "Space Missions",
+    "source": "Wikipedia — Chandrayaan-3",
+    "text": "Chandrayaan-3 is the third lunar exploration mission by the Indian Space Research Organisation (ISRO). It successfully landed on the Moon on 23 August 2023, making India the fourth country to achieve a soft lunar landing and the first to land near the lunar south pole. The mission consisted of a lander named Vikram and a rover named Pragyan. The Pragyan rover confirmed the presence of sulfur, oxygen, iron, aluminium, calcium, chromium, titanium, manganese, and silicon in the lunar soil through laser-induced breakdown spectroscopy. The mission lasted about 14 Earth days until the onset of the lunar night, during which both the lander and rover were powered down. Chandrayaan-3 demonstrated India's capability for precise lunar landing and surface operations. Wikipedia: Chandrayaan-3."
+  },
+  {
+    "id": "d2",
+    "title": "OSIRIS-REx",
+    "category": "Space Missions",
+    "source": "Wikipedia — OSIRIS-REx",
+    "text": "OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, Security-Regolith Explorer) is a NASA asteroid study and sample-return mission. The spacecraft visited the near-Earth asteroid Bennu and collected a sample from its surface. On 24 September 2023, the sample return capsule parachuted into the Utah desert, delivering over 121 grams of material — the largest asteroid sample ever returned to Earth, far exceeding the initial goal of 60 grams. Scientists found that Bennu's sample is rich in carbon and water-bearing clay minerals, supporting theories that asteroids delivered the building blocks of life to early Earth. After releasing the capsule, the spacecraft was redirected to study another asteroid, Apophis, and was renamed OSIRIS-APEX. Wikipedia: OSIRIS-REx."
+  },
+  {
+    "id": "d3",
+    "title": "Starship (spacecraft)",
+    "category": "Space Missions",
+    "source": "Wikipedia — Starship (spacecraft)",
+    "text": "Starship is a fully reusable super heavy-lift launch vehicle developed by SpaceX. It consists of two stages: the Super Heavy booster and the Starship upper stage. It is the largest and most powerful rocket ever flown, capable of carrying over 100 metric tons to low Earth orbit. SpaceX conducted four integrated flight tests in 2023 and 2024. The first test in April 2023 ended in a mid-air explosion. The second in November 2023 reached space but broke apart during stage separation. The third in March 2024 completed re-entry. The fourth test in June 2024 successfully splashed down both the booster and the Ship in the ocean for the first time. A fifth test in October 2024 caught the Super Heavy booster back at the launch tower using mechanical arms called 'chopsticks.' Wikipedia: Starship (spacecraft)."
+  },
+  {
+    "id": "d4",
+    "title": "Intuitive Machines Nova-C",
+    "category": "Space Missions",
+    "source": "Wikipedia — Intuitive Machines Nova-C",
+    "text": "Intuitive Machines Nova-C is a class of commercial lunar landers developed by Intuitive Machines under NASA's Commercial Lunar Payload Services (CLPS) program. The first mission, IM-1, landed its lander Odysseus near the lunar south pole on 22 February 2024, becoming the first American spacecraft to soft-land on the Moon since Apollo 17 in 1972 and the first commercial lander to do so. The lander tipped onto its side during touchdown, likely catching a foot on the surface, which reduced power from its solar panels. Despite this, it transmitted science data for about six days. The mission carried NASA instruments studying the lunar surface environment, plume-surface interactions, and radio astronomy. Wikipedia: Intuitive Machines Nova-C."
+  },
+  {
+    "id": "d5",
+    "title": "Chang'e 6",
+    "category": "Space Missions",
+    "source": "Wikipedia — Chang'e 6",
+    "text": "Chang'e 6 is a Chinese lunar sample return mission that targeted the far side of the Moon. It launched on 3 May 2024 and successfully landed in the Apollo crater within the South Pole-Aitken Basin on 1 June 2024. The mission collected about 1.9 kilograms of lunar material from the far side — a historic first, as no mission had ever returned samples from the lunar far side before. The capsule returned to Earth on 25 June 2024. Scientists hope these samples will help explain the geological and compositional differences between the Moon's near and far sides, a long-standing mystery in planetary science. Wikipedia: Chang'e 6."
+  },
+  {
+    "id": "d6",
+    "title": "SLIM (spacecraft)",
+    "category": "Space Missions",
+    "source": "Wikipedia — SLIM (spacecraft)",
+    "text": "SLIM (Smart Lander for Investigating Moon) is a Japanese lunar lander developed by JAXA (Japan Aerospace Exploration Agency). It launched in September 2023 and landed on the Moon on 19 January 2024, making Japan the fifth country to achieve a soft lunar landing. SLIM demonstrated a new 'pinpoint landing' technology, touching down within 55 meters of its target — far more precise than the typical kilometer-scale accuracy of previous landers. However, it landed at an unexpected angle with its solar panels facing the wrong direction. After lunar night ended and the Sun angle changed, SLIM resumed operations and returned additional data and images. It carried two small rovers: LEV-1 and LEV-2. Wikipedia: SLIM."
+  },
+  {
+    "id": "d7",
+    "title": "Artemis program",
+    "category": "Space Missions",
+    "source": "Wikipedia — Artemis program",
+    "text": "The Artemis program is NASA's ongoing human spaceflight program with the goal of returning humans to the Moon for the first time since Apollo 17 in 1972. Artemis I, an uncrewed test flight of the Space Launch System (SLS) rocket and Orion capsule, flew in November 2022 and successfully traveled around the Moon. Artemis II will be the first crewed Artemis mission, planned to fly four astronauts around the Moon. Artemis III aims to land astronauts, including the first woman, on the lunar south pole. The program uses SpaceX's Starship as the Human Landing System. NASA's commercial and international partners, including ESA, JAXA, and CSA, are involved. Wikipedia: Artemis program."
+  },
+  {
+    "id": "d8",
+    "title": "Europa Clipper",
+    "category": "Space Missions",
+    "source": "Wikipedia — Europa Clipper",
+    "text": "Europa Clipper is a NASA mission to Jupiter's moon Europa, launched on 14 October 2024 aboard a SpaceX Falcon Heavy rocket. It is one of the largest spacecraft NASA has ever built for a planetary mission. Europa is believed to harbor a vast liquid water ocean beneath its icy surface, making it one of the most promising places in the solar system to search for extraterrestrial life. The spacecraft will conduct 49 close flybys of Europa, studying its ice shell, ocean, and composition. It is expected to arrive at Jupiter in 2030. It carries instruments to measure magnetic fields, image the surface, and analyze the moon's thin atmosphere. Wikipedia: Europa Clipper."
+  },
+  {
+    "id": "d9",
+    "title": "Psyche (spacecraft)",
+    "category": "Space Missions",
+    "source": "Wikipedia — Psyche (spacecraft)",
+    "text": "The Psyche spacecraft is a NASA Discovery mission to study the metallic asteroid 16 Psyche, located in the main asteroid belt between Mars and Jupiter. It launched in October 2023 on a SpaceX Falcon Heavy. Asteroid Psyche is thought to be composed largely of metal and may be the exposed iron-nickel core of an early planet that was stripped of its outer layers through collisions billions of years ago. The spacecraft is expected to arrive at 16 Psyche in 2029. Studying it could provide a unique window into the interior of rocky planets like Earth, whose cores we cannot directly access. Wikipedia: Psyche (spacecraft)."
+  },
+  {
+    "id": "d10",
+    "title": "JUICE (spacecraft)",
+    "category": "Space Missions",
+    "source": "Wikipedia — JUICE (spacecraft)",
+    "text": "JUICE (Jupiter Icy Moons Explorer) is a mission by the European Space Agency (ESA) launched in April 2023. It is the first large-class mission in ESA's Cosmic Vision programme. Its primary goal is to study the three large ocean-bearing moons of Jupiter — Ganymede, Callisto, and Europa — to assess their habitability. The spacecraft will arrive at Jupiter in 2031 after a series of gravitational flybys including a unique Earth-Moon double flyby in August 2024. It will eventually enter orbit around Ganymede in 2034, becoming the first spacecraft to orbit a moon other than Earth's. Wikipedia: JUICE (spacecraft)."
+  },
+  {
+    "id": "d11",
+    "title": "James Webb Space Telescope",
+    "category": "Telescopes & Observatories",
+    "source": "Wikipedia — James Webb Space Telescope",
+    "text": "The James Webb Space Telescope (JWST) is a space telescope designed to observe the universe in infrared wavelengths. It launched on 25 December 2021 and began full science operations in July 2022. In 2023 it made a landmark discovery: detecting both carbon dioxide and methane in the atmosphere of K2-18b, an exoplanet 120 light-years away, suggesting it could be a 'Hycean world' with a hydrogen-rich atmosphere and a water ocean. In 2024 it captured the deepest infrared images of the universe to date, revealed detailed structure in galaxies from the early universe, and studied the atmospheres of multiple exoplanets. JWST is a collaboration between NASA, ESA, and the Canadian Space Agency. Wikipedia: James Webb Space Telescope."
+  },
+  {
+    "id": "d12",
+    "title": "Euclid (spacecraft)",
+    "category": "Telescopes & Observatories",
+    "source": "Wikipedia — Euclid (spacecraft)",
+    "text": "Euclid is a space telescope of the European Space Agency (ESA) designed to investigate dark energy and dark matter. It launched on 1 July 2023 from Cape Canaveral on a SpaceX Falcon 9. In November 2023 it released its first full-color science images, showcasing its wide-field imaging capability across visible and near-infrared wavelengths. Euclid will survey more than one-third of the sky over six years, observing billions of galaxies up to 10 billion light-years away. By mapping the large-scale structure of the universe and measuring galaxy shapes and distances, it aims to understand the nature of dark energy — the mysterious force driving the accelerated expansion of the universe. Wikipedia: Euclid (spacecraft)."
+  },
+  {
+    "id": "d13",
+    "title": "Event Horizon Telescope",
+    "category": "Telescopes & Observatories",
+    "source": "Wikipedia — Event Horizon Telescope",
+    "text": "The Event Horizon Telescope (EHT) is a global network of radio telescopes that works together as a single Earth-sized telescope using very-long-baseline interferometry (VLBI). In 2019 it produced the first image of a black hole (M87*), and in 2022 it imaged Sagittarius A*, the black hole at the center of the Milky Way. In October 2024 the EHT collaboration published the first image of polarized light around Sagittarius A*, revealing the structure of magnetic fields swirling around it. The magnetic field pattern closely resembles that of M87*, suggesting these features are universal properties of supermassive black holes. Wikipedia: Event Horizon Telescope."
+  },
+  {
+    "id": "d14",
+    "title": "Nancy Grace Roman Space Telescope",
+    "category": "Telescopes & Observatories",
+    "source": "Wikipedia — Nancy Grace Roman Space Telescope",
+    "text": "The Nancy Grace Roman Space Telescope (formerly WFIRST) is a NASA observatory currently under development, planned for launch in 2027. It is designed to conduct wide-field surveys of the sky in infrared light. Its primary science goals include studying dark energy and dark matter, discovering thousands of exoplanets through microlensing, and conducting large infrared surveys of the universe. Roman has the same resolution as the Hubble Space Telescope but with a field of view 100 times larger. It will carry a coronagraph instrument to directly image and study the atmospheres of nearby giant exoplanets. Wikipedia: Nancy Grace Roman Space Telescope."
+  },
+  {
+    "id": "d15",
+    "title": "Vera C. Rubin Observatory",
+    "category": "Telescopes & Observatories",
+    "source": "Wikipedia — Vera C. Rubin Observatory",
+    "text": "The Vera C. Rubin Observatory, formerly called LSST (Large Synoptic Survey Telescope), is a ground-based observatory under construction on Cerro Pachón in Chile. It houses an 8.4-meter telescope and the world's largest digital camera, with 3.2 gigapixels. The observatory is expected to begin its 10-year Legacy Survey of Space and Time (LSST) in 2025. Over its operational life it will photograph the entire visible sky every few nights, detecting transient events like supernovae and near-Earth asteroids, mapping the Milky Way, and tracking billions of objects to study dark matter and dark energy. Wikipedia: Vera C. Rubin Observatory."
+  },
+  {
+    "id": "d16",
+    "title": "Sagittarius A*",
+    "category": "Astronomy & Cosmology",
+    "source": "Wikipedia — Sagittarius A*",
+    "text": "Sagittarius A* (Sgr A*) is the supermassive black hole at the center of the Milky Way galaxy, located approximately 26,000 light-years from Earth. It has a mass of about 4 million solar masses. In 2022, the Event Horizon Telescope collaboration published the first image of Sgr A*. In 2024, new EHT data revealed polarized light around Sgr A*, mapping its magnetic field structure. The black hole is relatively quiet compared to active galactic nuclei but occasionally produces flares of X-ray and infrared emission. Studying Sgr A* provides a natural laboratory for testing general relativity and understanding black hole physics. Wikipedia: Sagittarius A*."
+  },
+  {
+    "id": "d17",
+    "title": "K2-18b",
+    "category": "Astronomy & Cosmology",
+    "source": "Wikipedia — K2-18b",
+    "text": "K2-18b is an exoplanet orbiting the red dwarf star K2-18 in the Leo constellation, approximately 120 light-years from Earth. It is about 8.6 times the mass of Earth and 2.6 times its radius, classifying it as a sub-Neptune. In September 2023, James Webb Space Telescope observations detected carbon dioxide (CO2) and methane (CH4) in its atmosphere — the first simultaneous detection of both gases in an exoplanet atmosphere. Researchers also found a tentative signature of dimethyl sulfide (DMS), a molecule produced only by living organisms on Earth. Scientists hypothesize K2-18b may be a 'Hycean world' — a hydrogen-rich planet with a liquid water ocean beneath — making it a strong candidate for further habitability study. Wikipedia: K2-18b."
+  },
+  {
+    "id": "d18",
+    "title": "NANOGrav",
+    "category": "Astronomy & Cosmology",
+    "source": "Wikipedia — NANOGrav",
+    "text": "NANOGrav (North American Nanohertz Observatory for Gravitational Waves) is a consortium of scientists using pulsar timing arrays to detect low-frequency gravitational waves. In June 2023, NANOGrav published evidence in The Astrophysical Journal Letters for a gravitational wave background — a faint, persistent hum of gravitational waves permeating the universe. Similar results were simultaneously announced by the European Pulsar Timing Array, the Parkes Pulsar Timing Array, and the Chinese Pulsar Timing Array. The signal is thought to be generated by supermassive black hole binaries throughout the universe slowly spiraling together over millions of years. This discovery opens an entirely new observational window on the universe. Wikipedia: NANOGrav."
+  },
+  {
+    "id": "d19",
+    "title": "Dark energy",
+    "category": "Astronomy & Cosmology",
+    "source": "Wikipedia — Dark energy",
+    "text": "Dark energy is an unknown form of energy that is hypothesized to permeate all of space and is responsible for the accelerating expansion of the universe. First evidenced in 1998 by observations of distant Type Ia supernovae, it accounts for approximately 68% of the total energy content of the observable universe. The nature of dark energy is one of the greatest unsolved problems in physics. Leading candidates include the cosmological constant (a constant energy density filling space) and dynamical models such as quintessence. ESA's Euclid telescope, launched in 2023, is designed specifically to map dark energy's effects across cosmic time. Wikipedia: Dark energy."
+  },
+  {
+    "id": "d20",
+    "title": "Dark matter",
+    "category": "Astronomy & Cosmology",
+    "source": "Wikipedia — Dark matter",
+    "text": "Dark matter is a hypothetical form of matter that does not interact with the electromagnetic force but whose presence can be inferred from gravitational effects on visible matter, radiation, and the large-scale structure of the universe. It accounts for approximately 27% of the universe's total mass-energy content. Evidence for dark matter includes galaxy rotation curves, gravitational lensing, and the cosmic microwave background. Despite decades of searches, dark matter particles have not been directly detected. Leading candidates include WIMPs (weakly interacting massive particles) and axions. Missions like Euclid and Rubin Observatory aim to better constrain dark matter's properties through cosmic structure surveys. Wikipedia: Dark matter."
+  },
+  {
+    "id": "d21",
+    "title": "Black hole",
+    "category": "Astronomy & Cosmology",
+    "source": "Wikipedia — Black hole",
+    "text": "A black hole is a region of spacetime where gravity is so strong that nothing — not even light or other electromagnetic waves — has enough speed to escape its event horizon. Black holes are formed when massive stars collapse at the end of their lives. Supermassive black holes, millions to billions of times the mass of the Sun, are found at the centers of most large galaxies. In 2019 the Event Horizon Telescope published the first direct image of a black hole (M87*), and in 2022 it imaged Sagittarius A*. In 2024 new research using JWST detected evidence for the earliest black holes ever observed, forming within a few hundred million years after the Big Bang. Wikipedia: Black hole."
+  },
+  {
+    "id": "d22",
+    "title": "Exoplanet",
+    "category": "Astronomy & Cosmology",
+    "source": "Wikipedia — Exoplanet",
+    "text": "An exoplanet (or extrasolar planet) is a planet outside the Solar System. The first confirmed detection of exoplanets was in 1992. As of 2024, over 5,700 exoplanets have been confirmed. NASA's Kepler and K2 missions discovered thousands of them, followed by the TESS mission which continues to find candidates. The James Webb Space Telescope has revolutionized exoplanet atmospheric studies since 2022, detecting molecules like CO2, methane, water, and sulfur dioxide in various exoplanet atmospheres. Key targets for habitability research include Earth-sized planets in their host star's habitable zone, such as those in the TRAPPIST-1 system and Gliese 12b. Wikipedia: Exoplanet."
+  },
+  {
+    "id": "d23",
+    "title": "Gliese 12 b",
+    "category": "Astronomy & Cosmology",
+    "source": "Wikipedia — Gliese 12 b",
+    "text": "Gliese 12 b is an exoplanet orbiting the red dwarf star Gliese 12, located about 40 light-years from Earth in the constellation Pisces. It was announced in May 2024 based on data from NASA's TESS satellite and the CHEOPS telescope. The planet is slightly smaller than Earth and receives about 1.6 times the solar energy Earth receives from the Sun — similar to Venus. Because it is close and transits its small star, it is an ideal candidate for atmospheric study with the James Webb Space Telescope. Scientists are particularly interested in whether it has retained an atmosphere, which could constrain models of planetary habitability around red dwarf stars. Wikipedia: Gliese 12 b."
+  },
+  {
+    "id": "d24",
+    "title": "Gravitational wave",
+    "category": "Astronomy & Cosmology",
+    "source": "Wikipedia — Gravitational wave",
+    "text": "Gravitational waves are ripples in the curvature of spacetime produced by accelerating massive objects, predicted by Einstein's general theory of relativity in 1916. They were directly detected for the first time in 2015 by LIGO. Since then, LIGO and Virgo have detected dozens of gravitational wave events from merging black holes and neutron stars. In 2023, pulsar timing arrays including NANOGrav detected a gravitational wave background — a low-frequency hum from supermassive black hole binaries throughout the universe. Future detectors like LISA (Laser Interferometer Space Antenna), planned for the 2030s, will detect gravitational waves in space at much lower frequencies. Wikipedia: Gravitational wave."
+  },
+  {
+    "id": "d25",
+    "title": "Neutron star",
+    "category": "Astronomy & Cosmology",
+    "source": "Wikipedia — Neutron star",
+    "text": "A neutron star is the collapsed core of a massive supergiant star that has undergone a supernova explosion. They are extremely dense — a teaspoon of neutron star material would weigh about a billion tons. Pulsars are rotating neutron stars that emit beams of electromagnetic radiation, used in pulsar timing arrays to detect gravitational waves. In 2023, pulsar timing arrays around the world used millisecond pulsars — extremely stable rotating neutron stars — to detect the gravitational wave background. Neutron star mergers, observed via gravitational waves and electromagnetic light, are thought to be major sites of heavy element production like gold and platinum. Wikipedia: Neutron star."
+  },
+  {
+    "id": "d26",
+    "title": "Perseverance (rover)",
+    "category": "Solar System & Mars",
+    "source": "Wikipedia — Perseverance (rover)",
+    "text": "Perseverance is a NASA Mars rover that landed in Jezero Crater on 18 February 2021. It is part of NASA's Mars 2020 mission and the Mars Exploration Program. By 2024, Perseverance had collected 23 sealed sample tubes from the Martian surface as part of the Mars Sample Return campaign, caching them for eventual return to Earth. The rover discovered organic molecules preserved in ancient sedimentary rock in Jezero Crater, which was once a lake. It also made the first powered flight on another planet through its companion helicopter, Ingenuity, which flew 72 times before its mission ended in January 2024 after a rotor blade was damaged. Wikipedia: Perseverance (rover)."
+  },
+  {
+    "id": "d27",
+    "title": "Mars sample return mission",
+    "category": "Solar System & Mars",
+    "source": "Wikipedia — Mars sample return mission",
+    "text": "Mars Sample Return (MSR) is a proposed joint NASA and ESA mission to retrieve samples collected by the Perseverance rover on Mars and return them to Earth for laboratory analysis. It would be the first mission to bring Martian material back to Earth. In 2024, NASA faced significant budget challenges with the MSR program, leading to a restructuring effort. The original plan called for a Sample Retrieval Lander and Earth Return Orbiter to be launched in the late 2020s, but revised plans pushed timelines toward 2035 or beyond. Scientists consider MSR critical for determining whether life ever existed on Mars. Wikipedia: Mars sample return mission."
+  },
+  {
+    "id": "d28",
+    "title": "Voyager 1",
+    "category": "Solar System & Mars",
+    "source": "Wikipedia — Voyager 1",
+    "text": "Voyager 1 is a NASA space probe launched on 5 September 1977. It is the most distant human-made object, having entered interstellar space in 2012. In late 2023, Voyager 1 began transmitting garbled data from more than 24 billion kilometers away. NASA engineers at JPL diagnosed the problem as a failing memory chip in the flight data system computer, causing it to repeat a pattern of ones and zeros. In April 2024, engineers devised a creative solution, moving the affected code to different memory locations and restarting the system. By May 2024, Voyager 1 had fully resumed normal operations — an extraordinary engineering achievement for a 47-year-old spacecraft. Wikipedia: Voyager 1."
+  },
+  {
+    "id": "d29",
+    "title": "Solar storm of May 2024",
+    "category": "Solar System & Mars",
+    "source": "Wikipedia — Solar storm of May 2024",
+    "text": "The solar storm of May 2024 was the most powerful geomagnetic storm to hit Earth in about 20 years, reaching G5 (extreme) level — the highest on the geomagnetic storm scale. It was caused by a series of X-class solar flares and multiple coronal mass ejections (CMEs) from a large active sunspot region (AR 13664). The storm produced spectacular auroras visible at unusually low latitudes, including across the southern United States, Mexico, southern Europe, and even parts of Australia. It disrupted high-frequency radio communications and caused minor GPS degradation. It was the strongest event since the Halloween storms of 2003. Wikipedia: Solar storm of May 2024."
+  },
+  {
+    "id": "d30",
+    "title": "101955 Bennu",
+    "category": "Solar System & Mars",
+    "source": "Wikipedia — 101955 Bennu",
+    "text": "Bennu (formally 101955 Bennu) is a carbonaceous asteroid in the Apollo group, classified as a potentially hazardous object. NASA's OSIRIS-REx spacecraft visited Bennu from 2018 to 2021, collecting a sample from its surface. The sample capsule returned to Earth on 24 September 2023 with over 121 grams of pristine material — the largest asteroid sample ever returned. Analysis revealed the sample is rich in carbon, water, and organic compounds, consistent with material from the early solar system. Bennu has a small but non-negligible chance of impacting Earth on 24 September 2182 — a probability currently estimated at about 1 in 2,700. Wikipedia: Asteroid Bennu."
+  },
+  {
+    "id": "d31",
+    "title": "Attosecond / Nobel Prize in Physics 2023",
+    "category": "Physics & Nobel Prizes",
+    "source": "Wikipedia — Attosecond / Nobel Prize in Physics 2023",
+    "text": "An attosecond is a unit of time equal to 10^-18 seconds, or one quintillionth of a second. It takes about 150 attoseconds for light to travel the diameter of a hydrogen atom. The 2023 Nobel Prize in Physics was awarded to Pierre Agostini, Ferenc Krausz, and Anne L'Huillier for their experimental methods for generating attosecond pulses of light. These ultra-short pulses allow scientists to observe and study the motion of electrons in atoms and molecules in real time, opening new possibilities in physics, chemistry, and medicine. Anne L'Huillier became only the fifth woman to win the Nobel Prize in Physics. Wikipedia: Attosecond."
+  },
+  {
+    "id": "d32",
+    "title": "Quantum dot / Nobel Prize in Chemistry 2023",
+    "category": "Physics & Nobel Prizes",
+    "source": "Wikipedia — Quantum dot / Nobel Prize in Chemistry 2023",
+    "text": "Quantum dots are nanoscale semiconductor crystals, typically 2 to 10 nanometers in diameter, whose optical and electronic properties depend strongly on their size due to quantum confinement effects. Smaller dots emit blue light; larger dots emit red light. The 2023 Nobel Prize in Chemistry was awarded to Moungi Bawendi, Louis Brus, and Alexei Ekimov for the discovery and synthesis of quantum dots. They are now used commercially in QLED televisions, LED lighting, and biological imaging agents. Researchers are also exploring their use in targeted cancer therapy, quantum computing, and solar cells. Wikipedia: Quantum dot."
+  },
+  {
+    "id": "d33",
+    "title": "Nobel Prize in Chemistry 2024",
+    "category": "Physics & Nobel Prizes",
+    "source": "Wikipedia — Nobel Prize in Chemistry 2024",
+    "text": "The 2024 Nobel Prize in Chemistry was awarded to David Baker, Demis Hassabis, and John Jumper. Baker was honored for computational protein design, while Hassabis and Jumper were recognized for their development of AlphaFold, an AI system that predicts the three-dimensional structure of proteins from their amino acid sequences. AlphaFold 2, released in 2021, solved a 50-year-old problem in biology. AlphaFold 3, released in 2024 by Google DeepMind, extended the capability to predict structures involving DNA, RNA, and small molecules. The AlphaFold Protein Structure Database provides structures for virtually all known proteins, accelerating drug discovery and biological research worldwide. Wikipedia: Nobel Prize in Chemistry 2024."
+  },
+  {
+    "id": "d34",
+    "title": "Nobel Prize in Physics 2024",
+    "category": "Physics & Nobel Prizes",
+    "source": "Wikipedia — Nobel Prize in Physics 2024",
+    "text": "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton for foundational discoveries and inventions that enable machine learning with artificial neural networks. Hopfield invented the Hopfield network in 1982, a type of recurrent neural network used for memory storage and retrieval. Hinton developed the Boltzmann machine and made key contributions to backpropagation and deep learning. Hinton, sometimes called the 'Godfather of AI,' notably resigned from Google in 2023 to speak freely about AI risks. Their work laid the foundation for the deep learning revolution that underpins modern AI systems. Wikipedia: Nobel Prize in Physics 2024."
+  },
+  {
+    "id": "d35",
+    "title": "Large Hadron Collider",
+    "category": "Physics & Nobel Prizes",
+    "source": "Wikipedia — Large Hadron Collider",
+    "text": "The Large Hadron Collider (LHC) is the world's largest and most powerful particle accelerator, operated by CERN near Geneva, Switzerland. It consists of a 27-kilometre ring of superconducting magnets where protons are accelerated to near the speed of light and collided. The LHC discovered the Higgs boson in 2012. Run 3 of the LHC began in 2022 at record collision energies of 13.6 TeV. In 2023 and 2024, the LHCb experiment at the LHC confirmed new exotic hadron states including pentaquarks and tetraquarks, and the ATLAS experiment published precise measurements of the W boson mass. Wikipedia: Large Hadron Collider."
+  },
+  {
+    "id": "d36",
+    "title": "Pentaquark",
+    "category": "Physics & Nobel Prizes",
+    "source": "Wikipedia — Pentaquark",
+    "text": "A pentaquark is a type of exotic hadron composed of four quarks and one antiquark. Unlike conventional hadrons (baryons with 3 quarks, mesons with 1 quark and 1 antiquark), pentaquarks were theoretically predicted but difficult to observe. The LHCb experiment at CERN first confirmed pentaquark states in 2015. In subsequent years and through 2023-2024, LHCb confirmed additional pentaquark states and tetraquark states, expanding the catalog of exotic hadrons. These discoveries deepen understanding of quantum chromodynamics (QCD), the theory describing how quarks and gluons interact via the strong force. Wikipedia: Pentaquark."
+  },
+  {
+    "id": "d37",
+    "title": "AlphaFold",
+    "category": "Physics & Nobel Prizes",
+    "source": "Wikipedia — AlphaFold",
+    "text": "AlphaFold is an artificial intelligence program developed by Google DeepMind that performs predictions of protein structure. AlphaFold 2, released in 2021, represented a major breakthrough, predicting protein 3D structures with atomic accuracy. DeepMind made the AlphaFold Protein Structure Database freely available, containing predicted structures for over 200 million proteins. AlphaFold 3, released in May 2024, extended predictions to nucleic acids (DNA, RNA) and small molecules, enabling modeling of full biological complexes. Its developers Demis Hassabis and John Jumper received the 2024 Nobel Prize in Chemistry. AlphaFold is transforming drug discovery, vaccine development, and basic biological research. Wikipedia: AlphaFold."
+  },
+  {
+    "id": "d38",
+    "title": "Quantum computing",
+    "category": "Physics & Nobel Prizes",
+    "source": "Wikipedia — Quantum computing",
+    "text": "Quantum computing is a type of computation that uses quantum mechanical phenomena such as superposition and entanglement to process information. Unlike classical bits (0 or 1), quantum bits (qubits) can exist in superpositions of states. In 2023 and 2024, quantum computing advanced significantly: IBM expanded its quantum processors to over 1,000 qubits; Google demonstrated quantum error correction milestones with its Willow chip in December 2024, performing a computation in 5 minutes that would take classical supercomputers an astronomically long time; and Microsoft and Quantinuum demonstrated logical qubits with error rates 800 times better than physical qubits. Fault-tolerant quantum computing remains the ultimate goal. Wikipedia: Quantum computing."
+  },
+  {
+    "id": "d39",
+    "title": "CRISPR",
+    "category": "Physics & Nobel Prizes",
+    "source": "Wikipedia — CRISPR",
+    "text": "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a family of DNA sequences found in bacteria, and the basis of the CRISPR-Cas9 gene editing technology. In December 2023, the US FDA approved the first CRISPR-based medicine: Casgevy, developed by Vertex Pharmaceuticals and CRISPR Therapeutics, for the treatment of sickle cell disease. The UK's MHRA had approved it slightly earlier in November 2023. This marked the first approved medicine based on CRISPR gene editing — a landmark in medical history. Casgevy works by editing a patient's own stem cells to restore functional hemoglobin production. Wikipedia: CRISPR."
+  },
+  {
+    "id": "d40",
+    "title": "Nuclear fusion",
+    "category": "Physics & Nobel Prizes",
+    "source": "Wikipedia — Nuclear fusion",
+    "text": "Nuclear fusion is the process by which two light atomic nuclei combine to form a heavier nucleus, releasing enormous amounts of energy. In December 2022, the National Ignition Facility (NIF) at Lawrence Livermore National Laboratory achieved a historic milestone: ignition — producing more energy from fusion than the laser energy delivered to the target — for the first time. In 2023, NIF repeated and improved upon this result multiple times. Separately, in 2024 Commonwealth Fusion Systems and other private companies made progress toward compact fusion reactors using high-temperature superconducting magnets. ITER, the international fusion experiment in France, continued construction toward its planned first plasma. Wikipedia: Nuclear fusion."
+  },
+  {
+    "id": "d41",
+    "title": "Parker Solar Probe",
+    "category": "Solar Science",
+    "source": "Wikipedia — Parker Solar Probe",
+    "text": "The Parker Solar Probe is a NASA spacecraft designed to study the outer corona of the Sun. Launched in 2018, it has made the closest approaches to the Sun of any spacecraft in history. In December 2024, Parker Solar Probe achieved its closest-ever perihelion, flying within about 6.1 million kilometers of the Sun's surface — inside the solar corona — at speeds exceeding 690,000 km/h, making it the fastest human-made object ever. During this record-breaking flyby it collected data on the solar wind's origin and acceleration mechanisms. The data is being transmitted back to Earth and will be analyzed over coming months. Wikipedia: Parker Solar Probe."
+  },
+  {
+    "id": "d42",
+    "title": "Solar Orbiter",
+    "category": "Solar Science",
+    "source": "Wikipedia — Solar Orbiter",
+    "text": "Solar Orbiter is a space mission of the European Space Agency (ESA) in partnership with NASA, launched in February 2020. Its goal is to study the Sun up close and observe its polar regions — never well-seen from Earth. In 2023 and 2024, Solar Orbiter returned the highest-resolution images of the Sun's surface ever taken from close range, showing 'campfires' — small solar flares near the surface — and detailed views of sunspots and coronal loops. These observations help scientists understand the origin of the solar wind and the Sun's magnetic field, which drives space weather that can affect Earth. Wikipedia: Solar Orbiter."
+  },
+  {
+    "id": "d43",
+    "title": "SpaceX Dragon",
+    "category": "Crewed Spaceflight",
+    "source": "Wikipedia — SpaceX Dragon",
+    "text": "SpaceX Dragon is a class of reusable spacecraft developed by SpaceX. The Crew Dragon variant has transported NASA astronauts to and from the International Space Station since 2020 under the Commercial Crew Program. In 2024, Crew Dragon played a critical rescue role: when Boeing's Starliner stranded astronauts Butch Wilmore and Suni Williams on the ISS due to helium leaks and thruster failures, NASA arranged for a modified Crew Dragon mission (Crew-9) to return them to Earth. They splashed down in February 2025 after spending over 9 months in space. As of 2024, Crew Dragon is the only operational US crewed spacecraft. Wikipedia: SpaceX Dragon."
+  },
+  {
+    "id": "d44",
+    "title": "Boeing Starliner",
+    "category": "Crewed Spaceflight",
+    "source": "Wikipedia — Boeing Starliner",
+    "text": "Boeing Starliner (CST-100) is a crewed spacecraft developed by Boeing under NASA's Commercial Crew Program. After years of delays and development problems, Starliner launched its first crewed flight on 5 June 2024, carrying NASA astronauts Butch Wilmore and Suni Williams to the ISS. However, the spacecraft experienced five helium leaks and multiple thruster failures during approach. NASA evaluated the risks and determined it was too unsafe for crew return. Boeing's uncrewed Starliner returned to Earth on 6 September 2024. The astronauts were eventually returned to Earth by a SpaceX Crew Dragon in February 2025. The future of Starliner's crewed program remains uncertain. Wikipedia: Boeing Starliner."
+  },
+  {
+    "id": "d45",
+    "title": "International Space Station",
+    "category": "Crewed Spaceflight",
+    "source": "Wikipedia — International Space Station",
+    "text": "The International Space Station (ISS) is a modular space station in low Earth orbit, a joint project of NASA, Roscosmos, ESA, JAXA, and CSA. It has been continuously inhabited since November 2000. As of 2024, the ISS is preparing for decommissioning, with NASA planning a controlled deorbit in 2030. A purpose-built deorbit vehicle, contracted to SpaceX, will be used to guide the station safely into the ocean. NASA is investing in commercial space stations to replace the ISS, with companies like Axiom Space, Blue Origin, and Starlab developing next-generation orbital platforms. Wikipedia: International Space Station."
+  },
+  {
+    "id": "d46",
+    "title": "Lunar Gateway",
+    "category": "Crewed Spaceflight",
+    "source": "Wikipedia — Lunar Gateway",
+    "text": "The Lunar Gateway is a planned space station in lunar orbit and a key component of NASA's Artemis program. It will serve as a staging point for lunar surface missions and a long-term outpost for deep space exploration. The Gateway is being developed in collaboration with ESA, JAXA, and CSA. The first modules — the Power and Propulsion Element (PPE) and Habitation and Logistics Outpost (HALO) — are planned for launch on a SpaceX Falcon Heavy in 2026. Unlike the ISS, the Gateway will not be continuously crewed; astronauts will visit it during lunar missions. Wikipedia: Lunar Gateway."
+  },
+  {
+    "id": "d47",
+    "title": "Helium-3",
+    "category": "Emerging Science",
+    "source": "Wikipedia — Helium-3",
+    "text": "Helium-3 (He-3) is a light, stable isotope of helium with two protons and one neutron. It is extremely rare on Earth but abundant on the Moon, deposited there over billions of years by the solar wind. He-3 is of great scientific and potential commercial interest as a fuel for nuclear fusion reactors, as the He-3 + deuterium fusion reaction produces minimal radioactive waste compared to other fusion fuels. China's Chang'e missions and the Artemis program have renewed interest in lunar He-3 resources. However, extracting sufficient quantities for commercial fusion remains a distant prospect. Wikipedia: Helium-3."
+  },
+  {
+    "id": "d48",
+    "title": "Gravitational wave background",
+    "category": "Emerging Science",
+    "source": "Wikipedia — Gravitational wave background",
+    "text": "The gravitational wave background (or stochastic gravitational wave background) is a diffuse signal of overlapping gravitational waves from many unresolved sources throughout the universe. In June 2023, four major pulsar timing array collaborations — NANOGrav, EPTA, PPTA, and CPTA — simultaneously published strong evidence for its detection. The signal matches predictions from populations of supermassive black hole binaries slowly losing energy as gravitational waves as they spiral together. The background appears in the nanohertz frequency range, far below the frequencies detectable by LIGO. This represents a new era in gravitational wave astronomy. Wikipedia: Gravitational wave background."
+  },
+  {
+    "id": "d49",
+    "title": "16 Psyche",
+    "category": "Emerging Science",
+    "source": "Wikipedia — 16 Psyche",
+    "text": "The Psyche asteroid (16 Psyche) is one of the largest metallic asteroids in the main asteroid belt, with a diameter of about 220 km. Unlike most asteroids, which are rocky or icy, Psyche is thought to be composed largely of iron and nickel — possibly the exposed metallic core of an early protoplanet that was stripped of its rocky mantle through ancient collisions. NASA's Psyche spacecraft, launched in October 2023, is on its way to study the asteroid and is expected to arrive in 2029. It would be the first mission to explore a world made primarily of metal rather than rock or ice. Wikipedia: 16 Psyche."
+  },
+  {
+    "id": "d50",
+    "title": "Ingenuity (helicopter)",
+    "category": "Emerging Science",
+    "source": "Wikipedia — Ingenuity (helicopter)",
+    "text": "The Ingenuity helicopter is a small autonomous rotorcraft that flew to Mars as part of NASA's Mars 2020 mission aboard the Perseverance rover. It made its first flight on 19 April 2021, becoming the first powered, controlled flight on another planet. What was planned as a technology demonstration of 5 flights grew into 72 flights over nearly three years. Ingenuity's mission ended on 18 January 2024 when it suffered damage to one of its rotor blades during its 72nd landing, rendering it unable to fly again. It had flown a total of over 17 kilometers and demonstrated that powered flight on Mars is feasible, paving the way for future Mars aerial vehicles. Wikipedia: Ingenuity (helicopter)."
+  }
+]
